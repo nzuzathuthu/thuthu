@@ -1,4 +1,4 @@
-{
+{ 
   "file_suffixes": {
     "csv": {
       "plugin_name": "com.sap.hana.di.tabledata.source"
